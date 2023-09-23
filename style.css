@@ -20,6 +20,7 @@ table {
     font-weight: bold;
     border: 1px solid #ccc;
     cursor: pointer;
+    box-shadow: 0 0 0 3px;
   }
 
   #win{
