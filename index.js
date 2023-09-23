@@ -44,3 +44,8 @@ function checkForWin() {
       }
     }
   }
+
+
+function playAgean(){
+    location.reload();
+}
